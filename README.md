@@ -1,1 +1,1 @@
-# WeBake.Project.github.io
+# WeBake.github.io
